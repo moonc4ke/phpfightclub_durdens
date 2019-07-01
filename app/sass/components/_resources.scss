@@ -1,0 +1,26 @@
+iframe {
+  margin: 8px 0 8px 0;
+}
+
+.resources {
+  img {
+    margin-bottom: 20px;
+  }
+
+  iframe {
+    margin: 15px;
+  }
+
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 800px;
+  }
+
+  .links {
+    margin: 20px;
+    width: 200px;
+    font-size: 1.6rem;
+  }
+}

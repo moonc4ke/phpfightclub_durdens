@@ -1,0 +1,31 @@
+.error {
+  color: red;
+}
+
+.form {
+  label {
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+  }
+
+  span {
+    display: block;
+  }
+
+  input {
+    width: 250px;
+  }
+}
+
+.content-wrapper {
+  button {
+    margin-left: 10px;
+    margin-top: 7px;
+  }
+}
+
+#input-button {
+  width: auto;
+  margin-top: 4px;
+}

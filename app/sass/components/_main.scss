@@ -1,0 +1,32 @@
+body {
+  padding-top: 3.8rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: white;
+  font-family: orbitron, sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  margin-bottom: 100px;
+}
+
+.bg-dark {
+  background-color: #151515 !important;
+}
+
+.user-list {
+  img {
+    width: 200px;
+  }
+}
+
+.main {
+  .responsive {
+    max-width: 95%;
+    height: auto;
+  }
+}

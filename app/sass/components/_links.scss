@@ -1,0 +1,23 @@
+/* unvisited link */
+a:link {
+  color: pink;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: pink;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: hotpink;
+  text-decoration: underline;
+}

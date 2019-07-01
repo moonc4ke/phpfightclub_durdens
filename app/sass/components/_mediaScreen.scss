@@ -1,0 +1,98 @@
+@media screen and (max-width: 768px) {
+  .glitch {
+    width: 80%;
+    font-size: 2rem;
+  }
+}
+
+@media screen and (min-width: 991px) {
+  .navbar-dark .navbar-brand {
+    margin-left: 80px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .navbar-dark .navbar-brand {
+    margin-left: 120px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+  .navbar-dark .navbar-brand {
+    margin-left: 250px;
+  }
+}
+
+@media screen and (max-width: 715px) {
+  #repo_table {
+    max-width: 600px;
+  }
+}
+
+@media screen and (max-width: 635px) {
+  #repo_table {
+    max-width: 500px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  #repo_table {
+    max-width: 400px;
+  }
+
+  .rep_url_form span {
+    display: block;
+  }
+
+  .repos {
+    h1 {
+      font-size: 1.9rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+    }
+
+    th {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #repo_table {
+    max-width: 350px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  #repo_table {
+    max-width: 300px;
+  }
+
+  .repos {
+    h1 {
+      max-width: 300px;
+      margin: 0 auto;
+    }
+  }
+}
+
+@media screen and (max-width: 350px) {
+  #repo_table {
+    max-width: 280px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .buttons {
+    width: 80px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .8rem;
+    padding-left: .8rem;
+  }
+}
