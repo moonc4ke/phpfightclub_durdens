@@ -23,6 +23,9 @@ body {
   max-width: 95%;
   height: auto; }
 
+.navbar-dark .navbar-toggler {
+  outline: 0; }
+
 .error {
   color: red; }
 
